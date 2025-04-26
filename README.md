@@ -29,8 +29,8 @@ I love building real-world applications, learning new technologies, and solving 
 ---
 
 ## 📫 Let's Connect
-- Email: [your-email@example.com]
-- LinkedIn: [your-linkedin-profile](https://linkedin.com/in/your-linkedin)
+- Email: [gentrit.ahmeti.dev@gmail.com]
+- LinkedIn
 
 ---
 
