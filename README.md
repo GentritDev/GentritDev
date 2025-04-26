@@ -1,38 +1,37 @@
-# 👋 Hi there, I'm Gentrit!
+# 👋 Hello, I'm Gentrit
 
-I'm a passionate **Computer Science student** with a strong interest in **Full Stack Development** and **Artificial Intelligence**.  
-I love building real-world applications, learning new technologies, and solving challenging problems. 🚀
+I am a **Computer Science student** passionate about technology, problem-solving, and continuous learning.  
+My main interests include **Full Stack Web Development**, **Artificial Intelligence**, and **Software Engineering**.
+
+I am currently focused on building real-world projects, improving my technical skills, and preparing for professional opportunities in the tech industry.
 
 ---
 
-## 🛠️ Technologies & Tools
-- **Languages:** Java, Python, JavaScript
-- **Frontend:** HTML, CSS, React
-- **Backend:** Node.js, Express
+## 🛠️ Skills & Technologies
+- **Programming Languages:** Java, Python, JavaScript
+- **Web Development:** HTML, CSS, React, Node.js, Express
 - **Databases:** MySQL, MongoDB
-- **Other Tools:** Git, GitHub, Firebase
+- **Tools & Platforms:** Git, GitHub, Firebase
 
 ---
 
 ## 📚 Currently Learning
-- Advanced Web Development
+- Advanced Full Stack Development
 - Fundamentals of Artificial Intelligence
-- Security Concepts
+- Cybersecurity Basics
 
 ---
 
-## 🎯 Goals for 2025
-- Secure a Software Engineering Internship 🛠️
-- Contribute to Open-Source Projects 🌍
-- Continuously improve and grow as a developer 🌱
+## 🎯 Goals
+- Obtain a Software Engineering internship
+- Contribute to meaningful open-source projects
+- Deepen my expertise in backend and AI technologies
 
 ---
 
-## 📫 Let's Connect
+## 📫 Contact Me
 - Email: [gentrit.ahmeti.dev@gmail.com]
 - LinkedIn
-
 ---
 
-> "Strive for progress, not perfection." ✨
-
+> "Success is the sum of small efforts, repeated day in and day out."
