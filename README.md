@@ -9,7 +9,7 @@ I am currently focused on building real-world projects, improving my technical s
 
 ## 🛠️ Skills & Technologies
 - **Programming Languages:** Java, Python, JavaScript
-- **Web Development:** HTML, CSS, React, Node.js, Express
+- **Web Development:** HTML, CSS, React,
 - **Databases:** MySQL, MongoDB
 - **Tools & Platforms:** Git, GitHub, Firebase
 
@@ -31,7 +31,7 @@ I am currently focused on building real-world projects, improving my technical s
 
 ## 📫 Contact Me
 - Email: [gentrit.ahmeti.dev@gmail.com]
-- LinkedIn
+- LinkedIn: [https://www.linkedin.com/in/gentrit/]
 ---
 
 > "Success is the sum of small efforts, repeated day in and day out."
